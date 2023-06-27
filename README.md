@@ -1,3 +1,4 @@
 # landing-page
 
-landing-page is the website which helps people to organize their safaris in Rwanda
+This landing-page project is made up by both html codes and css code
+It is usually a css project and I have almost used FlexBox to add some CSS 
